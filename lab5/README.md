@@ -64,7 +64,7 @@ Here are some resources that we think might be useful to you. If you find others
 
 ## Can I use something other than R / Quarto to build my site?
 
-Yes, but you’ll receive 10% less credit than a Quarto site would receive.
+Yes, but you’ll receive 3 points less than than an equivalent site building using Quarto would receive.
 
 Good options to consider include [Owlstown](https://www.owlstown.com/), and [Wix](https://www.wix.com/), and each offers templates that would
 work nicely.
@@ -92,10 +92,11 @@ website problems.
 
 ## Grading Lab 5
 
-- Lab 5 is worth 30 points.
-- Students will receive all 30 points if ...
-    - their Lab 5 submission is on time, and
-    - their Lab 5 site was built using Quarto, and
-    - their Lab 5 site clearly includes [the five key elements listed above](#the-five-key-elements), and
-    - their Lab 5 site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
-- Students will receive a maximum of 27/30 points if their site was built using something other than Quarto, but otherwise meets these standards.
+Lab 5 is worth up to 35 points. Students will receive most (if not all) of the 35 points if their submission:
+
+- is on time,
+- is built using Quarto,
+- clearly includes [the five key elements listed above](#the-five-key-elements), and
+- has no unfixed typos or grammatical issues that Dr. Love notices in his review.
+
+Students will receive a maximum of 32/35 points if their site was built using something other than Quarto, but otherwise meets these standards.
