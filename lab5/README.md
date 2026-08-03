@@ -81,10 +81,9 @@ If it includes the five elements listed above, great! You should definitely subm
 No. There are many low-cost solutions if you want to register a domain and use it for this purpose. Google Domains can provide you with most
 available domains for something like \$1 per month. I wouldn’t go much above that, and a free name is even better.
 
-## Do I need to wait until the end of the term to work on this?
+## Do I need to wait until October to work on this?
 
-Not at all. I would expect most of you to be able to follow the templates and guides above to do the work once you’ve finished Lab 1. At
-the end of the term, you will have a lot of work to do, so getting to this early is definitely a good idea.
+Not at all. I would expect most of you to be able to follow the templates and guides above to do the work once you’ve finished Lab 1. Getting this done early is definitely a good idea.
 
 ## Will the TAs help me troubleshoot my website?
 
