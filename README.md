@@ -40,7 +40,8 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
 ## Grading
 
 - Labs 1-4 and Labs 6-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 
-- Dr. Love reviews the Lab 5 submissions personally. 
+- Dr. Love reviews the Lab 5 submissions personally.
+- For details on how Lab grades affect your course grade, see the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
  
 ## Answer Sketches and Grading Rubrics
 
