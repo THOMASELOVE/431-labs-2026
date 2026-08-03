@@ -91,12 +91,12 @@ the end of the term, you will have a lot of work to do, so getting to this early
 If they can, sure, but only after anyone else looking for 431 help has had their problem settled. I do not guarantee that we can help fix your
 website problems.
 
-## Grading Lab X
+## Grading Lab 5
 
-- Lab X is worth 25 points.
+- Lab 5 is worth 25 points.
 - Students will receive all 25 points if ...
-    - their Lab X submission is on time, and
-    - their Lab X site was built using Quarto, and
-    - their Lab X site clearly includes [the five key elements listed above](#the-five-key-elements), and
-    - their Lab X site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
+    - their Lab 5 submission is on time, and
+    - their Lab 5 site was built using Quarto, and
+    - their Lab 5 site clearly includes [the five key elements listed above](#the-five-key-elements), and
+    - their Lab 5 site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
 - Students will receive a maximum of 22/25 points if their site was built using something other than Quarto, but otherwise meets these standards.
