@@ -2,7 +2,7 @@
 
 ## Prior to attempting Lab 5, we assume ...
 
-- You've completed Lab 1.
+- You've completed Lab 1, and
 - You've read Sections 11 and 28-29 of [R for Data Science](https://r4ds.hadley.nz/).
 
 ## What Is This?
