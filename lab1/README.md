@@ -1,4 +1,4 @@
-# Lab 1 for 431 in Fall 2026
+# 431 Lab 1 for Fall 2026
 
 ## Prior to attempting Lab 1, we assume ...
 
