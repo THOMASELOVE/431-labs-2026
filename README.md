@@ -24,7 +24,7 @@ Lab Instructions and Materials
 
 ## Tips for Lab Work
 
-See [here](tips.md) for some tips to remember before submitting your Lab work.
+See [here](tips.md) for some tips to remember before submitting your Lab work. 
 
 ## Getting Help During The Lab
 
