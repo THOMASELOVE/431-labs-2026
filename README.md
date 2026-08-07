@@ -39,8 +39,7 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
 
 ## Grading
 
-- Labs 1-4 and Labs 6-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 
-- Dr. Love reviews the Lab 5 submissions personally.
+- Labs 1-7 are first graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 
 - For details on how Lab grades affect your course grade, see the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
  
 ## Answer Sketches and Grading Rubrics
@@ -60,7 +59,7 @@ As Labs pass their deadlines (listed in the [Course Calendar](https://thomaselov
 
 We use a **[431 Regrade Request Form](https://tinyurl.com/431-2026-regrade-request)** to handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. 
 
-- If you want Dr. Love to review your grade on one (or more) of Labs 1-7 (or on Projects A or B) you should fill out the form any time before the December deadline on the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html). Once you submit the form, you'll have the ability to edit it, so you can add to it later in the semester if necessary.
+- If you want Dr. Love to review your grade on one (or more) of Labs 1-7 you should fill out the form any time before the December deadline on the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html). Once you submit the form, you'll have the ability to edit it, so you can add to it later in the semester if necessary.
 - When all other course work has been graded, Dr. Love will open the form. If you have requested additional points that could change your course grade, he'll review your request. If not, then he won't. 
 
 The main website for 431 in Fall 2026 is <https://thomaselove.github.io/431-2026>.
