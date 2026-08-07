@@ -8,15 +8,15 @@ All deadlines for all Labs are maintained in the [Course Calendar](https://thoma
 
 <div align="center">
 
-Lab Instructions and Materials | Focus of this Lab
+Lab Instructions and Materials | Connections to Dr. Love's [Course Book](https://thomaselove.github.io/431-book/)
 | :--------------------------------------------: | :--------------------------------------------------
-[Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab1/) | Book chapters 1-4: Using R/RStudio/Quarto, Summarizing, Visualization, Data Wrangling 
-[Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab2/) | Book chapters 1-6: Comparing Means with Paired and Independent Samples  
-[Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab3/) | Book chapters 5-9: Comparing Multiple Group Means
-[Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab4/) | Book chapters 10-14: Comparing Proportions, Correlation and Single Regression
+[Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab1/) | [Book](https://thomaselove.github.io/431-book/) chapters 1-4: Using R/RStudio/Quarto, Summarizing, Visualization, Data Wrangling 
+[Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab2/) | [Book](https://thomaselove.github.io/431-book/) chapters 4-6: Data Management, Comparing Means with Paired and Independent Samples
+[Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab3/) | [Book](https://thomaselove.github.io/431-book/) chapters 5-9: Comparing Multiple Group Means
+[Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab4/) | [Book](https://thomaselove.github.io/431-book/) chapters 10-14: Comparing Proportions, Correlation and Single Regression
 [Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/) | Building Your Personal Website
-[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab6/) | Book chapters 15-18: Power and Sample Size, Two-Factor Modeling
-[Lab 7 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab7/) | Book chapters 19-22: Multiple Regression and Modeling
+[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab6/) | [Book](https://thomaselove.github.io/431-book/) chapters 15-18: Power and Sample Size, Two-Factor Modeling
+[Lab 7 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab7/) | [Book](https://thomaselove.github.io/431-book/) chapters 19-22: Multiple Regression and Modeling
 
 </div>
 
