@@ -2,6 +2,12 @@
 
 Lab instructions and materials for 431 in Fall 2026 with Professor Love at CWRU
 
+## This is an evolving document.
+
+**Everything** on this page is **preliminary**, and thus **subject to serious change** before class begins on 2026-08-25. In addition, changes and updates will continue through the semester.
+
+-----
+
 ## Deadlines
 
 All deadlines for all Labs are maintained in the [Course Calendar](https://thomaselove.github.io/431-2026/calendar.html). There are seven labs planned for this term.
