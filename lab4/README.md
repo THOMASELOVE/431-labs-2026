@@ -2,6 +2,7 @@
 
 ## Prior to attempting Lab 4, we assume ...
 
+- You've completed the work of assembling your data set required in Project A,
 - You've reviewed the materials discussed in 431 Classes 1-13, 
 - You've worked through Chapters 1-14 of [Dr. Love's 431 book](https://thomaselove.github.io/431-book/),
 - You've read chapters 7-9 of David Spiegelhalter's *The Art of Statistics*,
