@@ -1,6 +1,6 @@
 # Some Tips for Lab (and Project) Work
 
-1. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
+1. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are permitted to do so.
 2. Be sure you carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
 3. Use the templates provided by Dr. Love when you can.
 4. Use the [version of R that Dr. Love recommends](https://thomaselove.github.io/431-2026/software.html). 
