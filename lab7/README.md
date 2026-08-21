@@ -8,7 +8,7 @@
 
 ## Instructions
 
-Here is a [PDF of the Lab 7 instructions](431-lab7.pdf).
+A [PDF of the Lab 7 instructions] will appear later this year.
 
 ## Tips for Lab Work
 
