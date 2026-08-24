@@ -21,7 +21,7 @@ Lab Instructions and Materials | Connections to Dr. Love's [Course Book](https:/
 [Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab3/) | [Book](https://thomaselove.github.io/431-book/) chapters 5-9: Comparing Multiple Group Means
 [Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab4/) | [Book](https://thomaselove.github.io/431-book/) chapters 10-14: Comparing Proportions, Correlation and Single Regression
 [Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/) | Building Your Personal Website
-[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab6/) | [Book](https://thomaselove.github.io/431-book/) chapters 15-20: Regression Modeling and Adjustment
+[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab6/) | [Book](https://thomaselove.github.io/431-book/) chapters 16-20: Regression Modeling and Adjustment
 [Lab 7 Materials](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab7/) | [Book](https://thomaselove.github.io/431-book/) chapters 15-21: Power and Sample Size, Multiple Regression
 </div>
 
