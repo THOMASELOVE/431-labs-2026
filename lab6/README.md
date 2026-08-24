@@ -9,7 +9,7 @@
 
 ## Instructions
 
-A PDF of the Lab 6 instructions will appear later.
+Here is a [PDF of the Lab 6 instructions](431-lab6.pdf).
 
 ## Tips for Lab Work
 
