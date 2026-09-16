@@ -11,7 +11,7 @@
 
 ## Instructions
 
-Here is a [PDF of the Lab 4 instructions](431-lab4.pdf).
+Here is a [PDF of the Lab 4 instructions](431-lab4.pdf). When you open this PDF, make sure you have the version marked **REVISED 2026-09-16** in the title.
 
 ## Tips for Lab Work
 
