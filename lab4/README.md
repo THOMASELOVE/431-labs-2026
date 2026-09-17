@@ -1,5 +1,7 @@
 # 431 Lab 4 for Fall 2026
 
+## NOTE: This lab's instructions were updated on 2026-09-17. Be sure your copy of the Lab instructions has this date. 
+
 ## Prior to attempting Lab 4, we assume ...
 
 - You've completed the work of assembling your data set required in [Project A](https://thomaselove.github.io/431-projectA-2026/),
@@ -11,7 +13,7 @@
 
 ## Instructions
 
-Here is a [PDF of the Lab 4 instructions](431-lab4.pdf). When you open this PDF, make sure you have the version marked **REVISED 2026-09-16** in the title.
+Here is a [PDF of the Lab 4 instructions](431-lab4.pdf). When you open this PDF, make sure you have the version marked **REVISED 2026-09-17** in the title.
 
 ## Tips for Lab Work
 
