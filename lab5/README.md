@@ -44,7 +44,7 @@ Here are some resources that we think might be useful to you. If you find others
 
 - Marvin Schmitt provides a full tutorial and template at [Create Your Website with Quarto](https://marvin-schmitt.com/blog/website-tutorial-quarto/). This is the most common tool people who’ve completed this have mentioned to me.
 - [PDF on How to Publish your Quarto website on Github pages](jadhav_2025_tips.pdf) by Renu Jadhav (2025 student in 431).
-- [Advice on How to Publish Your Website on GitHub](mehta_2024_tips), by Nihit Mehta (2024 student in 431) (PDF)
+- [Advice on How to Publish Your Website on GitHub](mehta_2024_tips.pdf), by Nihit Mehta (2024 student in 431) (PDF)
 - Posit has released a series of four YouTube videos on Quarto websites: [Build your homepage](https://www.youtube.com/watch?v=l7r24gTEkEY), [Add pages and navigation](https://www.youtube.com/watch?v=k65E-8PXZmA), [Styling with CSS/SCSS](https://www.youtube.com/watch?v=pAN2Hiq0XGs), and [Add lists of content with listing](https://www.youtube.com/watch?v=bv_Cw-3HI1Y&list=PL9HYL-VRX0oTCvag75m8yDjFoJvE-gMxp&index=4).
 - Quarto’s general guide to [Creating a Website](https://quarto.org/docs/websites/) may be helpful.
 - Here's a [video from The GRAPH Courses](https://www.youtube.com/watch?v=OlvO-EG-P60) on creating a personal website that some people found helpful.
