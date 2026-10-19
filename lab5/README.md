@@ -68,7 +68,9 @@ Here are some resources that we think might be useful to you. If you find others
 
 ## Can I use something other than R / Quarto to build my site?
 
-Yes, but you’ll receive 3 points less than than an equivalent site building using Quarto would receive.
+Yes, but you’ll receive three points less than than an equivalent site building using Quarto would receive.
+
+There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work. If you use AI to help you build the site using Quarto, you can still receive full credit for the Lab (without the 3 point drop.)
 
 Good options to consider include [Owlstown](https://www.owlstown.com/), and [Wix](https://www.wix.com/), and each offers templates that would
 work nicely.
