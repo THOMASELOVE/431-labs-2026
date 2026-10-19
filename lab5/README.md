@@ -5,6 +5,10 @@
 - You've completed Lab 1, and
 - You've read Sections 11 and 28-29 of [R for Data Science](https://r4ds.hadley.nz/).
 
+## NEW! AI OK for Lab 5
+
+There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
+
 ## What Is This?
 
 Lab 5 requires you to build a professional website, or augment your current one, if you already have one.
