@@ -9,6 +9,10 @@
 
 There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
 
+## NEW! List of some old student websites
+
+I emailed you a list (with links) of 32 websites from students in the 2025 version of 431. That email was sent at 3 PM on 2026-10-29.
+
 ## What Is This?
 
 Lab 5 requires you to build a professional website, or augment your current one, if you already have one.
