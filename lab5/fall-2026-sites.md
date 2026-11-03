@@ -10,8 +10,9 @@ At the moment, this is just a list of links I have received. I haven't evaluated
 6. [Naeun Lim](https://nxl415.github.io/Naeun-Website/)
 7. [Hassan Maghfuri](https://maghfurii.github.io/Hassan-Maghfuri-portfolio/)
 8. [Nikolay Neofidov](https://wuweiniko.github.io/)
-9. [Riya Patel](https://riiya-patel.github.io/)
-10. [Grayson Shanks](https://grayson379.github.io/)
-11. [C. Blake Smiley](https://c-blakesmiley.github.io/)
-12. [Grace Wilding](https://gew50-pixel.github.io/)
+9. [Catherine Osborn](https://cco14.github.io/)
+10. [Riya Patel](https://riiya-patel.github.io/)
+11. [Grayson Shanks](https://grayson379.github.io/)
+12. [C. Blake Smiley](https://c-blakesmiley.github.io/)
+13. [Grace Wilding](https://gew50-pixel.github.io/)
 
