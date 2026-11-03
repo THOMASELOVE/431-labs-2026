@@ -9,6 +9,10 @@
 
 There is **absolutely nothing wrong** with using AI to do Lab 5, from my perspective, so long as in your email to me, you tell me precisely what tools **and** what prompts you used to do all of the work.
 
+## NEW! List of sites I've received
+
+A list of sites I've received in response to this Lab [is found here](fall-2026-sites.md).
+
 ## NEW! List of some old student websites
 
 I emailed you a list (with links) of 32 websites from students in the 2025 version of 431. That email was sent at 3 PM on 2026-10-29.
