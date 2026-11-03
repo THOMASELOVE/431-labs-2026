@@ -1,6 +1,6 @@
 # Lab 5 Fall 2026 Student Sites
 
-At the moment, this is just a list of links I have received. I haven't evaluated them in any way yet. All I've done is check to see if I can open the link.
+At the moment, this is just a list of submissions. All I've done is ensure that I can open the link. I haven't evaluated them in any way yet. 
 
 1. [Ian Adams](https://adamsit0423.github.io/website/)
 2. [Ali Almadan](https://alialmadan73.github.io/)
