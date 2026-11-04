@@ -1,7 +1,7 @@
 # Lab 5 Fall 2026 Student Sites
 
-- Students are indicated [with a link]( if they've submitted a site that I can open. I haven't evaluated these beyond that yet.
-- Students are indicated `in monospace text` if they've yet to submit a site that I can open.
+- Student names are shown [with a link](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md) if they've submitted a site that I can open. I haven't evaluated these beyond that yet.
+- Student names are indicated `in monospace text` if they've yet to submit a site that I can open.
 
 | Students 1-11 | Students 12-22 | Students 23-33 | Students 34-42
 | :----------- | :----------- | :----------- | :-----------
