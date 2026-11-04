@@ -35,3 +35,6 @@ At the moment, this is just a list of submissions. All I've done is ensure that 
 31. [Ryan Szczepanik](https://rszczepanik28.github.io/ryanszczepanik.github.io/)
 32. [Grace Wilding](https://gew50-pixel.github.io/)
 
+## People without a successful submission
+
+Asha Agarwal, Aritra Bagchi, Eliza Brinton, Alexander Corbett, David Disabato, Brittney Jackson (revision needed), Maria Rivera Paz, Enysah Roberts, Kritagna Vadar, Eric Xu
