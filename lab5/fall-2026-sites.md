@@ -11,6 +11,6 @@
 `Brittney Jackson` | [Riya Kona](https://riyakona-08.github.io/) | [Pranit Lanjewar](https://pmsw24-oss.github.io/Pranit-website/) | [Naeun Lim](https://nxl415.github.io/Naeun-Website/) | [Hassan Maghfuri](https://maghfurii.github.io/Hassan-Maghfuri-portfolio/) | [Uyen Mai](https://uyenthanhmai1999.github.io/)
 [Luka Mitar](https://lmitar.github.io/) | [Chadi Nahal](https://chadinahal.github.io/-chadinahal-.github.io/) | [Nikolay Neofidov](https://wuweiniko.github.io/) | [Catherine Osborn](https://cco14.github.io/) | [Aryan Pasricha](https://arypasricha.github.io/) | [Harsh Patel](https://harshpatel-2.github.io/Harsh-Patel/) 
 [Riya Patel](https://riiya-patel.github.io/) | [Rhyon Qawwee](https://rhyonqawweewebsite.netlify.app/) | `Maria Rivera Paz` | [Enysah Roberts](https://ear140.github.io/My-Website2/) | [Nandita Shankar](https://nanditashankar.github.io/) | [Grayson Shanks](https://grayson379.github.io/) 
-[Shobhit Singh](https://sxs2140.github.io/PQHS-431-Lab5-Website2/) | [C. Blake Smiley](https://c-blakesmiley.github.io/) | [Ryan Szczepanik](https://rszczepanik28.github.io/ryanszczepanik.github.io/) | `Kritagna Vadar` | [Grace Wilding](https://gew50-pixel.github.io/) | `Eric Xu`
+[Shobhit Singh](https://sxs2140.github.io/PQHS-431-Lab5-Website2/) | [C. Blake Smiley](https://c-blakesmiley.github.io/) | [Ryan Szczepanik](https://rszczepanik28.github.io/ryanszczepanik.github.io/) | [Kritagna Vadar](https://kritagnyavadar.github.io/kritiwebsite/) | [Grace Wilding](https://gew50-pixel.github.io/) | `Eric Xu`
 
 
