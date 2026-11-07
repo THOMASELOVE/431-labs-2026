@@ -16,6 +16,7 @@ Some feedback for each of you is provided in the Grading Roster on our Shared Dr
 
 Student | Additional Comments
 :----------: | :------------------------------------------------------------------------------------------------------
+Ian Adams | Contreras was amazing all year with ABS - that's for sure. You may want to include links to your organizations and projects on the Professional part of your page.
 Mohana Addala | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it even more your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
 Asha Agarwal | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related people and organizations on the Welcome page.
 Sasha Alexander | I like the design, and appreciate the details on how you used Claude to help get there.
