@@ -1,6 +1,6 @@
 # Lab 5 Fall 2026 Student Sites
 
-- Student names are shown [with a link](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md) if they've submitted a site that I can open. I haven't evaluated these beyond that yet.
+- Student names are shown [with a link](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md) to their site that I can open. I haven't evaluated these beyond that yet.
 
 | Group A | Group B | Group C | Group D | Group E | Group F
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:
