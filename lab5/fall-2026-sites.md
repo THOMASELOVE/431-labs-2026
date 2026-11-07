@@ -1,7 +1,5 @@
 # Lab 5 Fall 2026 Student Sites
 
-- Student names are shown [with a link](https://github.com/THOMASELOVE/431-labs-2026/blob/main/lab5/fall-2026-sites.md) to their site that I can open. I haven't evaluated these beyond that yet.
-
 | Group A | Group B | Group C | Group D | Group E | Group F
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------:
 [Ian Adams](https://adamsit0423.github.io/website/) | [Mohana Snigdha Addala](https://mohanasnigdhaaddala25.github.io/mohanasnigdhaaddala25/) | [Asha Agarwal](https://aagarwal020.github.io/ashaagarwal.github.io/) | [Sasha Alexander](https://sashmalexander.github.io/) | [Ali Almadan](https://alialmadan73.github.io/) | [Oyu-Erdene Ankhbayar](https://oyuerdene831.github.io/)
@@ -12,4 +10,51 @@
 [Riya Patel](https://riiya-patel.github.io/) | [Rhyon Qawwee](https://rhyonqawweewebsite.netlify.app/) | [Maria Rivera Paz](https://mariariverapaz.github.io/) | [Enysah Roberts](https://ear140.github.io/My-Website2/) | [Nandita Shankar](https://nanditashankar.github.io/) | [Grayson Shanks](https://grayson379.github.io/) 
 [Shobhit Singh](https://sxs2140.github.io/PQHS-431-Lab5-Website2/) | [C. Blake Smiley](https://c-blakesmiley.github.io/) | [Ryan Szczepanik](https://rszczepanik28.github.io/ryanszczepanik.github.io/) | [Kritagna Vadar](https://kritagnyavadar.github.io/kritiwebsite/) | [Grace Wilding](https://gew50-pixel.github.io/) | [Eric Xu](https://ecx-afk.github.io/)
 
+## Some Additional Feedback
+
+Some feedback for each of you is provided in the Grading Roster on our Shared Drive. In addition, I have a few additional comments for each of you - listed below.
+
+Student | Additional Comments
+:----------: | :------------------------------------------------------------------------------------------------------
+Mohana Addala | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it even more your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Asha Agarwal | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related people and organizations on the Welcome page.
+Sasha Alexander | I like the design, and appreciate the details on how you used Claude to help get there.
+Ali Almadan | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Oyu-Erdene Ankhbayar | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Aritra Bagchi | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Gloria Bazilevich | Your site looks nice and different from many of the ones prepared for this Lab. I encourage you to consider adding links to your degree program and your related organizations on the front page.
+Mallory Bergmann | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page. The link to the tutorial on your front page isn't working, though.
+Eliza Brinton | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Jiayi Cheng | Your site looks nice. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Alexander Corbett | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page. You might want to mention the school you attend, for example, on the Welcome page.
+David Disabato | Thank you for providing a detailed description of the prompts you used to help build the site. I am just now learning of your R packages - congratulations.
+Connie Jieyi Dong | Cross that bridge when we come to it on your front page seems like a title waiting for your inspiration. You may want to adjust that.
+Mengke Du | Very playful design. I like it! It really does look meaningfully different from a lot of the sites I see.
+Sree Gongala | Thank you for providing a detailed description of the prompts you used to help build the site, and it really looks great. The only change I would consider to the formatting is that the green color in the navigation fades a bit, as opposed to emphasizing the current location.
+Rachana Gurudu | Your site looks nice, making good use of the standard approach taken by Marvin's template. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Isabella Guzman | You may want to adjust this a bit to leave some additional vertical space between the picture and the About Me text on the front page.
+Brittney Jackson | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page. I didn't know that "psychical" is a word, and I gather it is, but it reads a bit strangely, so you might adjust that, too.
+Riya Kona | Your site looks nice, making good use of the standard approach taken by Marvin's template. I hope in the future you will feel motivated to improve on this starting point and make it your own. I used to play badminton a lot - I miss that.
+Pranit Lanjewar | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice.
+Naeun Lim | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Hassan Maghfuri | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Uyen Mai | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Luka Mitar | I like the design, and appreciate the details on the prompt you used to help get there.
+Chadi Nahal | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page. The link to the tutorial on your front page isn't working, though.
+Nikolay Neofidov | I might shrink the font size on the front page starting "I am a neurologist..."
+Catherine Osborn | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Aryan Pasricha | Your site looks nice. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Harsh Patel | I think it would be more typical to provide an anticipated date of graduation as part of your listing of your PhD in Education & Projects, if you can do that.
+Riya Patel | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Rhyon Qawwee | Your site looks nice. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page. The link you provide to Marvin's template isn't working. Also, using Gandalf as the name on the top left isn't perhaps a 100% appropriate choice for a professional site.
+Maria Rivera Paz | Your site looks nice. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Enysah Roberts | Your site looks nice. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Nandita Shankar | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the About Me page.
+Grayson Shanks | Thank you for providing a detailed description of the prompts you used to help build the site. It looks nice. I encourage you to consider including links to the organizations you work with.
+Shobhit Singh | Your site looks nice. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Blake Smiley | Thank you for providing a detailed description of the prompts you used to help build the site. The site looks very nice.
+Ryan Szczepanik | I like that you've made use of something different, but the color scheme (for instance on the Resume and Projects page you get to by clicking Experience) is really tough to read - both the Download Resume link and the thing under On this page disappear into the background color. I'd adjust that to something different, if I were you.
+Kritagnya Vadar | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Grace Wilding | Your site looks nice, making good use of the standard approach taken by Marvin's template, with some tweaks. I hope in the future you will feel motivated to improve on this starting point and make it your own, and I encourage you to add links to your programs and related organizations on the Welcome page.
+Eric Xu | I would spell biostatistics without the hyphen on the front page.
 
