@@ -12,7 +12,7 @@
 
 ## Some Additional Feedback
 
-Some feedback for each of you is provided in the Grading Roster on our Shared Drive. In addition, I have a few additional comments for each of you - listed below.
+Some feedback and a grade for each of you on Lab 5 is provided in the Grading Roster on our Shared Drive. **In addition**, I have a few *additional* comments for each of you - listed below.
 
 Student | Additional Comments
 :----------: | :------------------------------------------------------------------------------------------------------
